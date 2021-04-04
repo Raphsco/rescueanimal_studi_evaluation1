@@ -1,0 +1,12 @@
+#logo {
+    width: 100px;
+    height: 100px;
+}
+.navbar-nav,
+.mr-auto{
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-around;
+}
+
